@@ -1,2 +1,2 @@
 # READINGAJSONFILE
-This is READINGAJSONFILE using Angular.
+This is READINGAJSONFILE using Angular HttpClientModule.
